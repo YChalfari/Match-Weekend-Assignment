@@ -1,0 +1,44 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 2vmin auto;
+  width: 90%;
+  border-radius: 5px;
+  border: 1px solid black;
+  height: 80vh;
+  max-width: 750px;
+}
+.main-content {
+  height: 60%;
+}
+.main-content img {
+  height: 80%;
+  width: 80vmin;
+  object-fit: contain;
+}
+
+.top-menu {
+  display: flex;
+  justify-content: space-around;
+  height: 10%;
+}
+.top-menu img {
+  margin-right: 2vmin;
+  height: 70%;
+}
+
+.counter-wrap {
+  color: red;
+  font-size: 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.likes {
+  color: rgb(49, 131, 185);
+}
+.finished {
+  padding: 10% 5%;
+  font-size: 1.3rem;
+}
