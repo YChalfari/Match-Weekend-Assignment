@@ -1,5 +1,5 @@
 import "./App.css";
-import axios from "axios";
+
 import React, { Component } from "react";
 import Display from "./components/Display";
 import cat1 from "./images/cat1.jpg";

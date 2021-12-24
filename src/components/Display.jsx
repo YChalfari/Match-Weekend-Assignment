@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import Button from "./Button";
 import like from "../images/like.png";
 import dislike from "../images/dislike.png";
